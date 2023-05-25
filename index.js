@@ -62,6 +62,7 @@ async function run() {
           supplier : coffee.supplier,
           taste : coffee.taste,
           category : coffee.category,
+          price : coffee.price,
           details : coffee.details,
           photo : coffee.photo
         },
